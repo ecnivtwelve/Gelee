@@ -3,6 +3,10 @@
 
 Make stunning Electron apps on Gnome with components based on Gnome Human Interface Guidelines
 
+## What does it looks like ?
+![image](https://user-images.githubusercontent.com/32978709/179023311-49bb7180-a8b2-4b54-976b-c84554f45202.png)
+Components and animations have been remade in CSS to look as closely as possible like a native app.
+
 ## Installation
 Just import the JS and CSS files into a vanilla JS electron project.
 ```html
@@ -30,7 +34,3 @@ Gel.SearchBar.hide();
 ## Why Gelée
 GJS is really different from Node.js, and i thought that desktop app development on Gnome needed a
 way to make cool apps with technologies most developers already know.
-
-## What does it looks like ?
-![image](https://user-images.githubusercontent.com/32978709/179023311-49bb7180-a8b2-4b54-976b-c84554f45202.png)
-Components and animations have been remade in CSS to look as closely as possible like a native app.
